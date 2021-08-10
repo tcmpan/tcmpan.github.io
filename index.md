@@ -3,8 +3,7 @@
 潘中医，中医执业医师，中医全科医师，非物质文化遗产“潘氏中医”第五代传承人。
 
 ### 下载专区
-
-些资料<a href='www.baidu.com'>点击跳转</a>
+一些资料
 
 ```markdown
 Syntax highlighted code block
