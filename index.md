@@ -1,7 +1,7 @@
 ## 潘中医的主页
 
 潘中医，中医执业医师，中医全科医师，非物质文化遗产“潘氏中医”第五代传承人。
-![图片文字描述](https://github.com/tcmpan/tcmpan.github.io/blob/main/gzh.jpg)
+![图片文字描述](https://z3.ax1x.com/2021/08/10/fYaw3n.jpg)
 You can use the [editor on GitHub](https://github.com/tcmpan/tcmpan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
