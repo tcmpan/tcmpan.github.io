@@ -4,7 +4,7 @@
 
 ### 下载专区
 
-Ma一些资料<a href='www.baidu.com'>点击跳转</a>
+些资料<a href='www.baidu.com'>点击跳转</a>
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+For more details see [GitHub Flavored Markdown](https://www.baidu.com/).
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Je测试2
