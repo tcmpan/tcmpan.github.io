@@ -6,15 +6,11 @@
 一些资料
 
 ```markdown
-Syntax h
+111
 
 
-# Header 1
-## Header 2
-### Header 3
+# Header
 
-- Bulleted
-- List
 
 1. Numbered
 2. List
@@ -23,7 +19,7 @@ Syntax h
 
 [Link](url) and ![Image](src)
 ```
-For more details see [GitHub Flavored Markdown](https://www.baidu.com/){target="_blank"}.
+For more details see [GitHub Flavored Markdown](https://www.baidu.com/).
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Je测试2
