@@ -6,7 +6,8 @@
 一些资料
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted <meta http-equiv="refresh" content="0; url=www.baidu.com">
+
 
 # Header 1
 ## Header 2
