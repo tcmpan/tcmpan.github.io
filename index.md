@@ -6,7 +6,7 @@
 一些资料
 
 ```markdown
-Syntax highlighted <meta http-equiv="refresh" content="0; url=www.baidu.com">
+Syntax h
 
 
 # Header 1
@@ -23,7 +23,7 @@ Syntax highlighted <meta http-equiv="refresh" content="0; url=www.baidu.com">
 
 [Link](url) and ![Image](src)
 ```
-For more details see [GitHub Flavored Markdown](https://www.baidu.com/).
+For more details see [GitHub Flavored Markdown](https://www.baidu.com/){target="_blank"}.
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Je测试2
